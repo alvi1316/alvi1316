@@ -8,9 +8,9 @@ Hi there! 👋 I'm Alvi, an Experienced Fullstack Developer and a Computer Scien
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,express,nodejs,jquery,java,php,mysql,github,html,css)
 
 ## 💼 Work Experience
-- **Open-Source Contributor - *[Dearborn Coding Club](www.dearborncodingclub.com)***<br/>
+- **Open-Source Contributor - *[Dearborn Coding Club](https://dearborncodingclub.com/)***<br/>
 Dearborn, MI, USA | 2024 – CURRENT
-    - Contributing to [dearborncodingclub.com](www.dearborncodingclub.com) using **React** and **Typescript**. 
+    - Contributing to [dearborncodingclub.com](https://dearborncodingclub.com/) using **React** and **Typescript**. 
 
 - **Open-Source Contributor - *[Themobidev](https://x.com/themobidev)***<br/>
 MI, USA | 2025 – CURRENT
