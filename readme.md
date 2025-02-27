@@ -44,7 +44,7 @@ Dhaka, Bangladesh | 07/2022 – 11/2022
  
 - ### <img src="./icon16.png"/> [JIS-Chrome-Extension](https://github.com/alvi1316/JIS-Chrome-Extension)
   - ###### Chrome APIs, JS, HTML, CSS.
-  - A wix like web application for building Functional-UI.
+  - A chrome extention that scraps linkedin and indeed to help users to log job applications.
 
 - ### <img src="./words.png" style="border: 1px solid white;" /> [WORDS](https://github.com/alvi1316/Words)
     - ###### PHP, JS, JQuery, Bootstrap, HTML, CSS, MySQL
