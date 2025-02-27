@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient" alt="header"/>
-
 # Shah Alvi Hossain
 Hi there! 👋 I'm Alvi, an Experienced Fullstack Developer and a Computer Science and Engineering graduate from [North South University](https://www.northsouth.edu/).
 
