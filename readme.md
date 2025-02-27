@@ -1,10 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient" alt="header"/>
+
 # Shah Alvi Hossain
 Hi there! 👋 I'm Alvi, an Experienced Fullstack Developer and a Computer Science and Engineering graduate from [North South University](https://www.northsouth.edu/).
 
-How to reach me:</br>
+##### How to reach me:
 <img src="./gmail.ico"/> Email: [alvi1316@gmail.com](mailto:alvi1316@gmail.com) <img src="./linkedin.ico"/> LinkedIn: [shah-alvi-hossain](https://www.linkedin.com/in/shah-alvi-hossain/)
 📝 Resume: [Shah Alvi Hossain.pdf](./Shah-Alvi-Hossain.pdf)
-
+##### Top skills:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,express,nodejs,jquery,java,php,mysql,github,html,css)
 
 ## 💼 Work Experience
