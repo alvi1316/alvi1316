@@ -26,6 +26,10 @@ Dhaka, Bangladesh | 07/2022 – 11/2022
 
 ## 💻 Projects
 
+- ### [🗄 TSDAORM](https://github.com/alvi1316/tsdaorm)
+  - ###### TypeScript, MySQL. 
+  - [TSDAORM](https://www.npmjs.com/package/tsdaorm) is a lightweight `NPM Package`. It is TypeScript based DAO style ORM which uses mysql2.
+    
 - ### [🌐 dearborn-coding-club/website-base-frontend](https://github.com/dearborn-coding-club/website-base-frontend) (Frontend Lead)
   - ###### ReactJS, TypeScript, HTML, CSS, APIs. 
   - A website for local meetup group dedicated for folks passionate about building and software related topics.
