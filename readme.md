@@ -8,13 +8,13 @@ Hi there! 👋 I'm Alvi, an Experienced Fullstack Developer and a Computer Scien
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,express,nodejs,npm,jquery,java,php,mysql,github,html,css)
 
 ## 💼 Work Experience
+- **Lead Backend Engineer - *[Blok App](https://www.heyblok.com/)***<br/>
+Chicago, IL, USA | 2024 – CURRENT
+    - Developed core backend features of [Blok App](https://www.heyblok.com/) using **Supabase**, **Express** and **Typescript**. 
+
 - **Open-Source Contributor - *[Dearborn Coding Club](https://github.com/dearborn-coding-club)***<br/>
 Dearborn, MI, USA | 2024 – CURRENT
     - Contributing to [dearborncodingclub.com](https://dearborncodingclub.com/) using **React** and **Typescript**. 
-
-- **Open-Source Contributor - *[Themobidev](https://x.com/themobidev)***<br/>
-MI, USA | 2025 – CURRENT
-    - Refactoring a WIX like UI builder named [Visualizer](https://github.com/themobidev/visualizer) using **React** and **dnd-kit**. 
 
 - **Fullstack Engineer - *[REVE Systems](https://www.revesoft.com/)***<br/>
 Dhaka, Bangladesh | 12/2022 – 05/2023
