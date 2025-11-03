@@ -10,7 +10,7 @@ Hi there! 👋 I'm Alvi, an Experienced Fullstack Developer and a Computer Scien
 ## 💼 Work Experience
 - **Lead Backend Engineer - *[Blok App](https://www.heyblok.com/)***<br/>
 Chicago, IL, USA | 2024 – CURRENT
-    - Developed core backend features of [Blok App](https://www.heyblok.com/) using **Supabase**, **Express** and **Typescript**. 
+    - Built a scalable **TypeScript/Node.js Express** backend with modular DAOs/DTOs, JWT security, WebSocket real‑time features, Swagger docs, structured error handling, and Sentry observability.
 
 - **Open-Source Contributor - *[Dearborn Coding Club](https://github.com/dearborn-coding-club)***<br/>
 Dearborn, MI, USA | 2024 – CURRENT
@@ -39,12 +39,6 @@ Dhaka, Bangladesh | 07/2022 – 11/2022
     - [Global Toast Messsage:](https://github.com/dearborn-coding-club/website-base-frontend/pull/79) Created Global Toast Message UI to ensure User Experience.
     - [Profile Page:](https://github.com/dearborn-coding-club/website-base-frontend/pull/84) Designed user profile page for users to showcase their skills and leetcode stats.
     - [Project Carousel:](https://github.com/dearborn-coding-club/website-base-frontend/pull/84) Created an infinite scroll carousel to showcase github repo.
-
-- ### [🌐 Visualizer](https://github.com/themobidev/visualizer)
-  - ###### ReactJS, dnd-kit, HTML, CSS.
-  - A wix like web application for building Functional-UI.
-  - Contributions:
-    - [Navbar & Sidebar : ](https://github.com/themobidev/visualizer/pull/9) Upgraded Navbar and Sidebar from legacy code to **ReactJS**.
  
 - ### <img src="./icon16.png"/> [JIS-Chrome-Extension](https://github.com/alvi1316/JIS-Chrome-Extension)
   - ###### Chrome APIs, JS, HTML, CSS.
