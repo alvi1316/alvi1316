@@ -29,7 +29,15 @@ Dhaka, Bangladesh | 07/2022 – 11/2022
 - ### [🗄 Autoscript ORM](https://github.com/alvi1316/autoscript)
   - ###### TypeScript, PostgreSQL. 
   - [Autoscriptorm](https://www.npmjs.com/package/autoscriptorm) is a lightweight TypeScript based ORM for PostgreSQL.
-  - The orm supports column suggestions, virtual columns, join operations, serialization etc.
+  - The ORM supports
+      - column suggestions
+      - serialization
+      - virtual columns
+      - create, update, delete, read
+      - where `=` `!=` `<>` `<` `>` `<=` `>=` `like` `in` `not in` `is null` `is not null`
+      - order by `asc` `desc`
+      - offset, limit
+      - inner join, left join, right join
     
 - ### [🌐 dearborn-coding-club/website-base-frontend](https://github.com/dearborn-coding-club/website-base-frontend) (Frontend Lead)
   - ###### ReactJS, TypeScript, HTML, CSS, APIs. 
